@@ -160,6 +160,7 @@
   -webkit-text-fill-color: transparent;
   font-weight: bold;
   margin-left: 20px;
+  cursor: pointer;
 }
 .container .search_bar_container .back_section img {
   margin-right: 8px;
@@ -189,6 +190,7 @@
   margin-bottom: auto;
   margin-left: 20px;
   left: 0;
+  cursor: pointer;
 }
 .container .search_bar_container .tagline_section {
   margin-right: 20px;
